@@ -1,3 +1,3 @@
-<p align="center"> 
-  ![Header](./github-header-banner.png)
+<p align="center">
+  <img src="github-header-banner.png" alt="Header" />
 </p>
