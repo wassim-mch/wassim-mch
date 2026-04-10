@@ -1,8 +1,6 @@
 <p align="center">
   <img src="github-header-banner.png" alt="Header" />
 </p>
-<h1 align="center">Hi 👋, I'm Wassiml Machat</h1>
-<h3 align="center">🚀 Développeur Web & Mobile Passionné</h3>
 
 <p align="center">
   💡 J’aime créer des applications modernes, rapides et élégantes <br>
